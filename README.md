@@ -210,3 +210,5 @@ You might want to use this package if you need to create these types of files.
 We take security seriously, and are consistently looking for ways to improve. If you have any suggestions or find any security issues, please [open an issue](https://github.com/svapnil/iso20022.js/issues/new/choose).
 
 **NOTE: We are tracking the [libxmljs vulnerability](https://github.com/svapnil/iso20022.js/issues/26), a dependency we use in our unit tests and have a plan to deprecate. Note that production use of `iso20022.js` is not affected by this vulnerability.**
+
+<!-- Auto-update: 2025-10-17T08:56:49.714787 -->
